@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build --base=/TeamProject_Portfolio_PG7/",
+    "build": "vite build --base=/js_114_Zakhar-T/",
     "preview": "vite preview"
   },
   "devDependencies": {
